@@ -5,10 +5,7 @@
 
 <p align="center"> 
   <a href="https://github.com/EricVoll">
-     <img src="https://github-readme-stats.vercel.app/api?username=EricVoll&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en&layout=compact" alt="EricVoll's github stats" width=350px/>
-  </a>
-  <a href="https://github.com/EricVoll">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricVoll&hide=html,css,scss,sass,coffeescript＆count_private=true&theme=gotham&locale=en&langs_count=10&layout=compact" alt="EricVoll's github top languages" width=300px />
+     <img src="https://github-readme-stats.vercel.app/api?username=EricVoll&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&locale=en" alt="EricVoll's github stats" width=350px/>
   </a>
 </p>
 
